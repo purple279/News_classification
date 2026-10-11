@@ -106,7 +106,7 @@ These results are from the reported two-epoch test evaluation. They should not b
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/purple279/News_classification_-.git
 cd News_classification
 ```
 
