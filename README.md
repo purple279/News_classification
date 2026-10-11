@@ -4,9 +4,7 @@ An NLP project that classifies news articles into four categories — **World, S
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** [Try the News Classifier](YOUR_STREAMLIT_APP_URL)
-
-> Replace `YOUR_STREAMLIT_APP_URL` with your actual public Streamlit deployment link.
+🔗 **Streamlit App:** [Try the News Classifier](https://newsclassification-n96zc3bvflgqptd2ecfdwh.streamlit.app/)
 
 ## 📌 Project Overview
 
