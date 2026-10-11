@@ -239,3 +239,12 @@ This project is intended for educational and demonstration purposes. Predictions
 ---
 
 **Built with Python, PyTorch, Hugging Face Transformers, and Streamlit.**
+
+## 👩‍💻 Author
+
+**Vashundthera**
+
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/vashundthera7/)
+- GitHub: [purple279](https://github.com/purple279)
+
+I'm a Computer Science student interested in Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building practical AI projects and deploying machine learning models.
