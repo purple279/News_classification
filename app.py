@@ -4,7 +4,7 @@ import torch
 import torch.nn.functional as F
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-MODEL_PATH = "./saved_model"
+MODEL_PATH = "vashu-7/news-classification-distilbert"
 
 st.set_page_config(
     page_title="AI News Classifier",
